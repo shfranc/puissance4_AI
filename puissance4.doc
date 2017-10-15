@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    puissance4.doc                                     :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: lduval <lduval@student.42.fr>              +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/03/05 06:22:34 by lduval            #+#    #+#              #
+#    Updated: 2017/03/05 11:00:36 by lduval           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+<- puissance4 ----------------------------------------------------------------------
+
+use ./puissance4 number_of_line number_of_columnto play against the IA
+	number_of_column and number_of_line must be positive integer.
+
+use -p2 to play against another player
+
+use -setd to set a difficulty
+
+---------------------------------------------------------------------- puissance4 ->
