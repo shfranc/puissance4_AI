@@ -1,0 +1,6 @@
+puissance4
+*.o
+libft/*.o
+libft/libft.a
+printf/*.o
+printf/libft.a
